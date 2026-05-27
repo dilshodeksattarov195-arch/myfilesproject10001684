@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachestringify",
+        "uuid": 7283300,
+        "checksum": "2l1k6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
